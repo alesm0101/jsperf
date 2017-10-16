@@ -1,2 +1,3 @@
 # jsperf
-Jsperf test
+
+https://jsperf.com/validating-class-js
